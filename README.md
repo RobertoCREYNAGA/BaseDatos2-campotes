@@ -1,4 +1,4 @@
 BaseDatos2-campotes
 ===================
 
-Proyectos y Tareas de Bases de Datos2
+En este proyecto vamos a trabajar todo lo referente a BasesdeDatos2, veremos muchas cosas bonitas, entre ellas a los procedimientos almacenados y disparadores almacenados en el ceneval.
